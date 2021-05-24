@@ -1,0 +1,11 @@
+
+Name :ashen perera|| Seat :1|| Seconds In Queue :8
+Name :ruchira dias|| Seat :2|| Seconds In Queue :13
+Name :naveen perera|| Seat :3|| Seconds In Queue :9
+Name :nabel shanaz|| Seat :4|| Seconds In Queue :9
+Name :meraj vindira|| Seat :5|| Seconds In Queue :14
+
+Max lenghth : 5
+Max Stay time : 53
+Minimum stay time : 8s
+Average time : 10s

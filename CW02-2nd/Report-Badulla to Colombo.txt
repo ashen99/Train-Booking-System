@@ -1,0 +1,11 @@
+
+Name :deshan guna|| Seat :1|| Seconds In Queue :9
+Name :chathuska usan|| Seat :2|| Seconds In Queue :5
+Name :kavindu hasa|| Seat :3|| Seconds In Queue :13
+Name :ravindu jaye|| Seat :4|| Seconds In Queue :15
+Name :ranul sandeepa|| Seat :5|| Seconds In Queue :11
+
+Max lenghth : 5
+Max Stay time : 53s
+Minimum stay time : 9s
+Average time : 10s
