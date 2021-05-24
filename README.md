@@ -15,5 +15,5 @@ in this the passengers who booked seats in the previous application will be adde
 
 ## How to install-
 1 . download both folders. <br/>
-2 . in the cw02 give the specific path to the text files in the cw01.
-3 . you are good to go now 👍
+2 . in the cw02 give the specific path to the text files in the cw01.<br/>
+3 . you are good to go now 👍 
