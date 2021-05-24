@@ -5,7 +5,7 @@ this was build using java 1.8 and javaFX
 ## About Application
 there are two applications in this. in the first one user can book a seat from colombo to badulla or badulla to colombo. the second application is used to add passengers into the train. <br/>
 
-### cwo1:-
+### cw01:-
 this allows users to book seats from colombo to badulla and badulla to colombo.
 first user have to select the destination and click on a seat number then enter the users first name and the surname
 the train has 42 seats as mentioned in the courswork specification.
